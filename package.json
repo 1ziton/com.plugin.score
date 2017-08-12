@@ -1,0 +1,19 @@
+{
+  "name": "com.plugin.score",
+  "version": "1.0.0",
+  "description": "this plugin is about appstore to score",
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1ziton/com.plugin.score.git"
+  },
+  "keywords": [
+    "score",
+    "appstore"
+  ],
+  "author":  ["yilei","yangqian"],
+  "license": "ISC"
+}
